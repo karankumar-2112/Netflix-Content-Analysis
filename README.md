@@ -14,7 +14,7 @@ The project covers **data cleaning, transformation, DAX measures, and visualizat
 * DAX
 * CSV Dataset
 
-## ⚙️ Data Cleaning
+## 🔍 Data Cleaning & Transformation
 
 The dataset was cleaned and prepared in Power Query by:
 
